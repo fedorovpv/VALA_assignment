@@ -2,7 +2,7 @@
 
 ## ℹ️ Implementation Notes
 
-The assignment task explicitly states that the data must be stored in a text file; otherwise, I would have used SQLite, which would simplify storing, inserting new records and performing sorting via SQL queries.
+The assignment task explicitly states that the data must be stored in a text file; otherwise, I would have used SQLite, which would simplify storing, inserting new records and performing sorting via SQL queries. This would also help if there is a slash "/" in the book title or author field. But the format was set by the task and it was programmed according to it.
 
 ## 🛠 Requirements
 
